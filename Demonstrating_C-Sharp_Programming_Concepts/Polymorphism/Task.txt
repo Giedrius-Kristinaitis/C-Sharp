@@ -1,0 +1,6 @@
+Problem:
+
+Make a studying plan in which modules are arranged in a way that modules are dependant only on those modules that are listed before.
+Modules can depend on other modules or can be independent.
+
+Make all possible lists how modules can be arranged.
