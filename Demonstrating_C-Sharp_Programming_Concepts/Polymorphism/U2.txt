@@ -1,0 +1,6 @@
+﻿5
+IF01 Programavimo įvadas            1 IF04
+IF02 Diskrečioji matematika         1 IF01
+IF03 Duomenų struktūros             2 IF01 IF02
+IF04 Skaitmeninė logika             1 IF05
+IF05 Operacinės sistemos            2 IF01 IF04
