@@ -1,0 +1,18 @@
+Basketball Team:
+
+Given information:
+-List of basketball players (read from a data file):
+  -First name
+  -Last name
+  -Birth date
+  -Height
+  -Position
+  -Basketball club
+  -Is invited to the national team
+  -Is captain
+
+To do:
+-Find the oldest player and print his first name, last name and age in the console
+-Find all attackers and print their names and heights in the console
+-Find all players that are invited to the national team and print their information to file "Rinktine.csv"
+-Make list of all basketball clubs in the data file and print it to file "Klubai.csv"
