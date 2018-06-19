@@ -1,4 +1,8 @@
-﻿/// <summary>
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+/// <summary>
 /// List element containing references to previous and next list elements as well as the data
 /// stored in the element
 /// </summary>
