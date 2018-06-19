@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Web.UI.WebControls;
