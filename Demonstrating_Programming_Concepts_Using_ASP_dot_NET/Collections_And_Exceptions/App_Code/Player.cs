@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+using System;
 
 /// <summary>
 /// Player class containing player's information: team, name, surname, position, time played, 
