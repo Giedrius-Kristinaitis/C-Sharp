@@ -1,0 +1,5 @@
+Komanda 2;John;Johnny;puolėjas
+Komanda 2;Tony;White;puolėjas
+Komanda 2;Peter;Conn;centras
+Komanda 2;Trent;Conn;gynėjas
+Komanda 2;Tristan;Dave;gynėjas

@@ -1,0 +1,3 @@
+2018-04-20
+Komanda 1;Kai;Gerumo;25;24;1
+Komanda 2;Dave;David;10;2;2
