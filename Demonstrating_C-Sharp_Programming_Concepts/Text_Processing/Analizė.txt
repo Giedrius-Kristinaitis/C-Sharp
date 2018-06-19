@@ -1,0 +1,8 @@
+Ilgiausi žodžių fragmentai, sudaryti iš žodžių, kur žodžio paskutinė raidė sutampa su kito žodžio pirmąja raide: 
+korporacija.
+
+Apie
+Fragmentas yra eilutėse 9 - 11.
+
+Tekste yra 5 žodžių, sudarytų tik iš skaitmenų.
+Skaičių bendra suma: 8034
