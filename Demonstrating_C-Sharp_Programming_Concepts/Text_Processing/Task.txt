@@ -1,0 +1,10 @@
+Text:
+
+Problem:
+Analyse text and print the following:
+-longest word fragment where a word ends with the same letter the next one starts
+-number of words that are contain only digits, sum of those numbers
+
+Edit text:
+-align words in the text so that every first word in a line starts at the same position, every second word
+starts one or two spaces after the first, third - one or two spaces after the second, and so on...
