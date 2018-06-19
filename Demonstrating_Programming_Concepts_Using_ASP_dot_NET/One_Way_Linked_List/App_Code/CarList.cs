@@ -1,4 +1,8 @@
-﻿/// <summary>
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+/// <summary>
 /// One-way linked list class to store car information
 /// </summary>
 public class CarList {
