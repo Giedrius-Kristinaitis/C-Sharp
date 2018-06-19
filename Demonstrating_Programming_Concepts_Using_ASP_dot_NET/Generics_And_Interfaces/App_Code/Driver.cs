@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+using System;
 
 /// <summary>
 /// Class storing driver's information: name and the number of the car
