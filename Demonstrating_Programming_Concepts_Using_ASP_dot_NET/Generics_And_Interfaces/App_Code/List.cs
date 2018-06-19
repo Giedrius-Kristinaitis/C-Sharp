@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+using System;
 using System.Collections;
 
 /// <summary>
