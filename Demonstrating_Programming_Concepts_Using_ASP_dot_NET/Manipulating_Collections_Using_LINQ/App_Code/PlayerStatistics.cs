@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Author: Giedrius Kristinaitis
+ */ 
+
+using System;
 
 /// <summary>
 /// PlayerStatistics class containing player's statistical information: team, name, surname (used to identify
