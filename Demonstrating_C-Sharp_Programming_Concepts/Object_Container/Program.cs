@@ -10,7 +10,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Labor1 {
+namespace Basketball {
 
     /// <summary>
     /// entry class containing the Main() method
