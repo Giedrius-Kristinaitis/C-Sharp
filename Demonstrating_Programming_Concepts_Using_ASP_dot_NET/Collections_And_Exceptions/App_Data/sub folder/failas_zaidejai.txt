@@ -1,0 +1,2 @@
+﻿Komanda 1;Kai;Gerumo;gynėjas
+Komanda 2;Dave;David;gynėjas

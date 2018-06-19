@@ -1,0 +1,11 @@
+2018-04-26
+Komanda 1;Jonaitis;Jonas;20;18;3
+Komanda 1;Petraitis;Petras;8;6;1
+Komanda 1;Antanaitis;Antanas;12;4;0
+Komanda 1;Pavardenis;Vardenis;15;12;0
+Komanda 1;Stonys;Stasys;5;0;1
+Komanda 2;John;Johnny;15;12;0
+Komanda 2;Tony;White;18;16;2
+Komanda 2;Peter;Conn;10;3;1
+Komanda 2;Trent;Conn;8;7;1
+Komanda 2;Tristan;Dave;15;14;0
