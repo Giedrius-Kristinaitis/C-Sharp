@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+using System;
 
 /// <summary>
 /// Exception that occurs when there is a problem with a file the user created
