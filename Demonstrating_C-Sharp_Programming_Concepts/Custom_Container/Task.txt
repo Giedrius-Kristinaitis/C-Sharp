@@ -1,0 +1,16 @@
+Custom container:
+
+The purpose of this project is to create a custom object container and demonstrate how it works.
+Inheritance is also used in this project.
+
+Data file contains the following information:
+Name of a shape and coordinates of each point (x and y)
+
+Problem:
+Write a menu based program that executes following commands:
+KokiuIrKiek: finds how many shapes of each type there are (triangles, rectangles, circles...)
+MaxPerimetras: finds the shape with the highest perimeter
+MaxPlotas: finds the shape with the highest area
+KiekStacTrikampiu: finds how many triangles are right-angled
+KiekKvadratu: finds the number of squares
+InfoFiguruGrupe: displayes information about given shape type
