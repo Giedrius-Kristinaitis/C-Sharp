@@ -1,0 +1,6 @@
+Given information:
+-Banknote types and how many of each type there is.
+-Clients that want to withdraw money
+
+Problem:
+Write a program that withdraws money if needed banknotes still exist
