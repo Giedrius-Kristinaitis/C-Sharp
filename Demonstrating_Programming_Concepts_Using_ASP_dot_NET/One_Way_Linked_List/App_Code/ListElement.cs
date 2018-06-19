@@ -1,4 +1,8 @@
-﻿/// <summary>
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+/// <summary>
 /// Class used by CarList class (which is a linked list)
 /// Contains information about data stored in this element and a reference to the next element
 /// </summary>
