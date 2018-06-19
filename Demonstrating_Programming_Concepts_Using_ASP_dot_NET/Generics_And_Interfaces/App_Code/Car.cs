@@ -1,4 +1,8 @@
-﻿using System;
+/*
+ * Author: Giedrius Kristinaitis
+ */
+
+using System;
 
 /// <summary>
 /// Class storing car's information: model, number, year produced, km driven per year (in thousands)
