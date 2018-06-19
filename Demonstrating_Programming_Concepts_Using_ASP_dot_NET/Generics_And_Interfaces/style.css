@@ -1,0 +1,13 @@
+﻿#TextInitialDataTable {
+    text-align: center;
+}
+
+#InitialDataTable, #ResultsTable {
+    border: 2px solid black;
+}
+
+.InputControl {
+    margin: 16px;
+    margin-left: 0px;
+}
+
