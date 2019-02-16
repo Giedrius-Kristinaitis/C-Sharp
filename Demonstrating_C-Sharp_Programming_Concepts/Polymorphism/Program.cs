@@ -2,6 +2,12 @@
  * Author: Giedrius Kristinaitis
  * 
  * For the sake of simplicity all classes are kept in the same source file
+ * 
+ * This was written back in 2017-11 
+ * 
+ * Edit 2019-02-16: I know this can be done a lot more efficiently, but at the time I was too lazy
+ * to try and come up with an efficient solution and now I'm too lazy to update this code so I'm just
+ * going to keep it as it is
  */
 
 using System;
